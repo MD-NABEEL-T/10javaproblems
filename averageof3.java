@@ -18,6 +18,6 @@ public class averageof3
         int num3 = sc.nextInt();
 
         int average = avg(num1,num2,num3);
-        System.out.println(average);
+        System.out.println("the average is "+average);
     }
 }
